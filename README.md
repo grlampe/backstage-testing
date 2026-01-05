@@ -8,3 +8,4 @@ To start the app, run:
 yarn install
 yarn start
 ```
+To set the variables for app-config files, create a .env.yarn file.
